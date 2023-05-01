@@ -15,9 +15,9 @@ This is a simple implementation of the classic Snake game using Python and the P
 
 
 ## Running the Game
-1. Save the complete Snake game code provided earlier into a file named `snake_game.py`.
+1. Save the complete Snake game code provided earlier into a file named `snake_gpt4.py`.
 
-2. Open a terminal or command prompt, navigate to the directory containing the `snake_game.py` file, and run the following command:
+2. Open a terminal or command prompt, navigate to the directory containing the `snake_gpt4.py` file, and run the following command:
     python snake_game.py
 The game window should appear, and you can start playing.
 
